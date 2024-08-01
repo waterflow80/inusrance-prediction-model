@@ -1,4 +1,4 @@
-# Inusrance Prediction Model
+# Inusrance Prediction Model - ML Classification Problem
 In in this project we tried to create different machine learning supervised models for pedicting whether an owner of a given house should consider applying for insurance. The data preprocessing and visualization will be included in this project.
 
 The machine learning techniques/models used are: **Decision Tree Classifier**, **Logistic Regression**, **Random Forest Classifier**, **SVM Classifier**, and **MLP Classifier**. 
